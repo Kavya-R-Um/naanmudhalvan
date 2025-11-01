@@ -55,7 +55,8 @@ Emails were sent correctly for approvals and payments.
 ---
 
 ## 📄 Documentation
-Full project report: [Lease_Management_Project_Report.pdf](./Lease_Management_Project_Report.pdf)
+📄 **[View Project Report (PDF)](https://github.com/Kavya-R-Um/naanmudhalvan/raw/main/Lease_Management_Project_Report.pdf)**
+
 
 ---
 
