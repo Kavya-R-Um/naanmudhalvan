@@ -60,6 +60,6 @@ Emails were sent correctly for approvals and payments.
 
 ---
 
-**Developer:** Kavya R Um  
-**Program:** Naan Mudhalvan – Salesforce Developer Internship  
-**Project:** Lease Management System
+**Developed by:** Kavya R Um,Krishma S, Yazhini V,Ushadevi P  
+**Program:** Naan Mudhalvan – Salesforce Developer(SB8067)
+**Project:** Lease Management
